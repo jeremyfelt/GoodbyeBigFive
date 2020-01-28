@@ -1,5 +1,12 @@
-[![N|Solid](https://i.kinja-img.com/gawker-media/image/upload/c_fill,fl_progressive,g_center,h_180,q_80,w_320/rdxcnz0ban3vivfm8ect.png)]()
-# Thwarting Tech Giants
+# Customized "Goodbye Big Five"
+
+This is a forked version of Gizmodo's GoodbyeBigFive project that allows me to add other rules as needed for blocking wide swaths of traffic.
+
+* Use `./block.sh --fbtw` to block Facebook and Twitter
+* Use `./block.sh --twitter` to block Twitter
+* Use `./block.sh --facebook` to block Facebook
+
+# (Original Readme) Thwarting Tech Giants
 Amazon, Facebook, Google, Microsoft, and Apple move more money than many medium sized nations. Their extraordinary profits are won through extraordinary reach - this is not a secret. That a few companies are afforded unprecedented and shamefully unregulated access into our homes is now an unremarkable fact of living with tiny computers everywhere.  
 
 This is some code that will help you experience a life without the giants. For the article we used a VPN to monitor and block traffic, however the code in this repo provides a more streamlined approach. 
